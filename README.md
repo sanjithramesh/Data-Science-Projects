@@ -2,7 +2,7 @@
 
 This repository consists of projects that I have done. The technologies used for these projects are Python and JMP. Below is a short description of all the projects and steps taken to analyze the datasets.
 
-1. Revenue Projections - Using time series analytics, predicted accurately the revenue projections for a life sciences company for the year using historical data. Resources were allocated using findings from the projections.
+1. Revenue Projections of a life sciences company - Using time series analytics, predicted accurately the revenue projections for a life sciences company for the year using historical data. Resources were allocated using findings from the projections.
 
 2. Scraping & Analyzing Letgo.com Car Listings: A personal project I did when I was unsure which used car to buy, so I decided to assess the online used car market specifically for letgo.com. Scraped data containing car listings using beautiful soup from letgo.com. Cleaned, prepared and organized the data. Uncovered Insights about the car listings and their properties based on Key performance Indicators. 
 

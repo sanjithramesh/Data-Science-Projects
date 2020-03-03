@@ -4,7 +4,7 @@ This repository consists of projects that I have done. The technologies used for
 
 1. Revenue Projections - Using time series analytics, predicted accurately the revenue projections for a life sciences company for the year using historical data. Resources were allocated using findings from the projections.
 
-2. Scraping & Analyzing www.Letgo.com Car Listings: Scraped data containing car listings using beautiful soup from www.letgo.com. Cleaned, prepared and organized the data. Uncovered Insights about the car listings and their properties based on KPI. 
+2. Scraping & Analyzing Letgo.com Car Listings: Scraped data containing car listings using beautiful soup from letgo.com. Cleaned, prepared and organized the data. Uncovered Insights about the car listings and their properties based on Key performance Indicators. 
 
 3. Scraping & Analyzing Indeed.com Job Postings: Scraped data containing distinct job openings using API from Indeed.com. Cleaned, prepared and organized the data. Clustered jobs titles based on the location. Identified and visualized underlying relationships between different factors such as job title, company,  skills and Salary.
 

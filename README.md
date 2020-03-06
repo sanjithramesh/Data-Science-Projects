@@ -1,6 +1,6 @@
 # Projects
 
-This repository consists of projects that I have done. The technologies used for these projects are Python and JMP. Below is a short description of all the projects and steps taken to analyze the datasets.
+This repository consists of projects that I have done. Below is a short description of all the projects and steps taken to analyze the datasets.
 
 1. Revenue Projections of a life sciences company - Using time series analytics, predicted accurately the revenue projections for a life sciences company for the year using historical data. Resources were allocated using findings from the projections.
 
